@@ -46,3 +46,12 @@ body{
     border: none;
     color: #910A67;
 }
+
+#new-btn{
+    padding: 1rem;
+    font-size: 1.25rem;
+    border-radius: 1rem;
+    background-color: #3C0753;
+    border: none;
+    color: #910A67; 
+}

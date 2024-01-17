@@ -11,6 +11,10 @@ body{
 
 .container{
     height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .game{
@@ -40,6 +44,4 @@ body{
     background-color: #3C0753;
     border: none;
     color: #910A67;
-    
-
 }

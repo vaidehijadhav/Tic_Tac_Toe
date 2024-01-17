@@ -34,7 +34,8 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
     font-size: 8vmin;
-    color: #720455;
+    background-color: #910A67;
+    color:#3C0753;
 }
 
 #reset-btn{
